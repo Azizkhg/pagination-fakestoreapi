@@ -1,0 +1,13 @@
+#paginationButton{
+    border-radius: 5px;
+}
+
+#paginationButton:hover{
+    background-color: black;
+    color: aliceblue;
+}
+
+.pagination button.active{
+    background-color:coral;
+    color:brown;
+}
